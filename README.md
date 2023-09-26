@@ -24,20 +24,10 @@ Follow these steps to set up and play Space Explorers:
 
 ## Features
 
-- Engaging gameplay with stunning graphics.
+- Command Line Java Game to be run through IntelliJ
 - Explore the vastness of space and conquer various challenges.
 - A fun project that showcases Java game development skills.
 
-## Contributing
 
-We welcome contributions from the community! If you'd like to improve Space Explorers or fix any issues, please fork the repository and submit pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We would like to thank the open-source community and all contributors for their support in making Space Explorers a thrilling game.
-
-Happy exploring the cosmos with Space Explorers! 🚀🌌
