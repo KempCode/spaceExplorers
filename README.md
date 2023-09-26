@@ -3,7 +3,7 @@
 ![spaceExplorers](https://github.com/Kempster33/spaceExplorers/assets/15764472/7066a3ee-cba4-4f85-a089-ae441b05d3fe)
 
 
-Space Explorers is a Java game created by Liam Pribis and Michael Kemp in 2019. This repository contains the functional graphical user interface (GUI) version of the game.
+Space Explorers is a Java game created by Liam Pribis and Michael Kemp in 2019. This repository contains the functional CLI version of the game.
 
 ## Prerequisites
 
